@@ -1,4 +1,4 @@
-# Vortex - Sistema de Pontos por Indicação
+# Vortex - Sistema de Indicação
 
 Uma aplicação web SPA (Single Page Application) que implementa um sistema de pontos por indicação, desenvolvida com React no front-end e Node.js/Express no back-end.
 
@@ -103,15 +103,6 @@ npm run dev
 ```
 Este comando executa o servidor e o cliente simultaneamente.
 
-**Opção 2: Executar separadamente**
-```bash
-# Terminal 1 - Back-end
-npm start
-
-# Terminal 2 - Front-end
-cd client
-npm start
-```
 
 4. **Acesse a aplicação**
 - Front-end: http://localhost:3000
@@ -229,7 +220,4 @@ MIT License - veja o arquivo LICENSE para detalhes.
 
 Desenvolvido por Marcos como parte do desafio prático Vortex.
 
----
-
-**Nota**: Esta aplicação foi desenvolvida seguindo todas as especificações do desafio, incluindo a restrição de não usar frameworks de UI/CSS e a implementação completa do sistema de pontos por indicação.
 
