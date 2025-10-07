@@ -204,13 +204,10 @@ NODE_ENV=production
 ## 🤖 Colaboração com IA
 
 Este projeto foi desenvolvido com o auxílio de IA para:
-- Aceleração do desenvolvimento
-- Sugestões de melhores práticas
-- Otimização de código
-- Geração de documentação
-- Resolução de problemas técnicos
 
-A IA foi utilizada como ferramenta de produtividade, mantendo a autoria e decisões arquiteturais do desenvolvedor.
+-Etapa visual: utilizei a IA como apoio criativo para definir o conceito estético e estrutural do layout da aplicação feita em React. Com isso, foi possível aprimorar a escolha da paleta de cores, com base em um estilo moderno e limpo. Essas orientações serviram como referência visual e técnica, permitindo que o design final fosse harmonioso, responsivo e funcional, mantendo a identidade visual do projeto sem depender de frameworks externos de CSS.
+
+-Back End: A IA foi utilizada para acelerar o processo de estruturação da API REST desenvolvida com Node.js e Express. Com seu auxílio, foi possível estruturar os endpoints REST (/api/register, /api/user/:id, /api/user-by-code/:code), com validações e boas práticas de segurança, implementar o uso do bcrypt para o hash de senhas e UUID para geração de identificadores únicos e otimizar consultas ao banco SQLite, garantindo persistência local eficiente.
 
 ## 📄 Licença
 
